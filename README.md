@@ -141,7 +141,7 @@ Matrisdəki müsbət elementlərin cəmini çap edin.
     
 #### Output example 1
 
-    23
+    11
 ---
 
 ## Task 5 🎯
