@@ -89,33 +89,6 @@ out massivini verin.
 
 ## Task 3 🎯
 
-### Müxtəlif elementlərin sayı
-
-N sayda tam ədədlərdən ibarət massivdəki müxtəlif elementlərin sayını tapmaq lazımdır.
-
-### Input
-Birinci sətirdə N ədədi verilir. Növbəti sətirdə isə N sayda tam ədəd verilir. Bütün ədədlər modulca 2000 -dən böyük deyil.
-
-### Output
-Massivdəki müxtəlif elementlərin sayı.
-
-:clock2: Time limit 1 second
-
-:floppy_disk: Memory limit 128 MiB
-
-#### Input example 1 
-
-    7
-    
-    3 5 -7 7 5 -9 -4
-    
-#### Output example 1
-
-      6
----
-
-## Task 4 🎯
-
 ### Unique elements
 
 Array of n integers is given. Print those elements that appears in array only once. Print the elements in the same order as they appear in the list.
@@ -141,7 +114,7 @@ Print the list of unique elements.
     3 -7 7 -9 -4 
 ---
 
-## Task 5 🎯
+## Task 4 🎯
 
 ### Matrisdə müsbətlərin cəmi
 
@@ -168,10 +141,10 @@ Matrisdəki müsbət elementlərin cəmini çap edin.
     
 #### Output example 1
 
-    1
+    23
 ---
 
-## Task 6 🎯
+## Task 5 🎯
 
 ### Diaqonallar
 
@@ -205,7 +178,7 @@ Hansı dioqanalın necə adlandırıldığını başa düşmək üçün ikinci n
     411 1327
 ---
 
-## Task 7 🎯
+## Task 6 🎯
 
 ### Cross
 Nümunəyə baxın...
@@ -254,7 +227,7 @@ Nümunəyə baxın...
 ---
 
 
-## Task 8 🎯
+## Task 7 🎯
 
 ### Teatrın mədaxili
 
